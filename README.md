@@ -1,5 +1,5 @@
 # Hi there, I'm Aaron - aka [poonkje112][website] 👋
-<br />![](https://komarev.com/ghpvc/?username=poonkje112)<br />
+<br />![](https://komarev.com/ghpvc/?username=poonkje112)<br /><br />
 Hi there! My name is Aaron and I love Build and Break applications!<br />
 So I'm a Game/Software developer working on all different kind of projects and I'm always looking for new challenges. <br />
 Like [Professor Layton](https://en.wikipedia.org/wiki/Professor_Layton) once said: "Every puzzle has an answer!" <br />
