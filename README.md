@@ -1,8 +1,8 @@
 # Hi there, I'm Aaron - aka [poonkje112][website] 👋
-![](https://komarev.com/ghpvc/?username=poonkje112)
+![](https://komarev.com/ghpvc/?username=poonkje112) <br /><br />
 Hi there! My name is Aaron and I Build and Break applications!<br />
 So I'm a Game/Software developer working on all different kind of projects and I'm always looking for new challenges. <br />
-Like [Professor Layton][https://en.wikipedia.org/wiki/Professor_Layton] once said: "Every puzzle has an answer!" <br />
+Like [Professor Layton](https://en.wikipedia.org/wiki/Professor_Layton) once said: "Every puzzle has an answer!" <br />
 Want to get in contact, or just look at some of my projects? Feel free to visit [my portfolio][website] or check out my public repositories here on github.
 
 # 📈 Stats
