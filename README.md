@@ -7,6 +7,8 @@ Want to get in contact, or just look at some of my projects? Feel free to visit 
 
 ## My favorites
 ![](https://img.shields.io/badge/Editor-Jetbrains%20Rider-blue)
+![](https://img.shields.io/badge/Code-C#-blue)
+![](https://img.shields.io/badge/Code-JavaScript-blue)
 
 # 📈 Stats
 <a href="https://github.com/poonkje112">
